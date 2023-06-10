@@ -31,7 +31,7 @@ _Special thanks to_
 <td>
 <a href="https://bit.ly/awesome-go-keygen">
 <img src="https://avelino.run/sponsors/keygen-logo.png" width="200" alt="keygen"><br/>
-<b>A dead-simple software licensing and distribution API built for developers</b><br/>
+<b>An open, source-available software licensing and distribution API.</b><br/>
 <sub>Securely license and distribute Go applications with a single API.</sub><br>
 <sup>Add auto updates with only a few lines of code.</sup>
 </a>
@@ -932,6 +932,7 @@ _Packages that help with building Distributed Systems._
 - [rpcx](https://github.com/smallnest/rpcx) - Distributed pluggable RPC service framework like alibaba Dubbo.
 - [Semaphore](https://github.com/jexia/semaphore) - A straightforward (micro) service orchestrator.
 - [sleuth](https://github.com/ursiform/sleuth) - Library for master-less p2p auto-discovery and RPC between HTTP services (using [ZeroMQ](https://github.com/zeromq/libzmq)).
+- [Temporal](https://github.com/temporalio/sdk-go) - Durable execution system for making code fault-tolerant and simple.
 - [torrent](https://github.com/anacrolix/torrent) - BitTorrent client package.
 
 **[⬆ back to top](#contents)**
@@ -2809,6 +2810,7 @@ _Full stack web frameworks._
 - [Beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 - [Buffalo](https://gobuffalo.io) - Bringing the productivity of Rails to Go!
 - [Confetti Framework](https://confetti-framework.github.io/docs/) - Confetti is a Go web application framework with an expressive, elegant syntax. Confetti combines the elegance of Laravel and the simplicity of Go.
+- [Don](https://github.com/abemedia/go-don) - A highly performant and simple to use API framework.
 - [Echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework.
 - [Fiber](https://github.com/gofiber/fiber) - An Express.js inspired web framework build on Fasthttp.
 - [Fireball](https://github.com/zpatrick/fireball) - More "natural" feeling web framework.
@@ -2839,6 +2841,7 @@ _Full stack web frameworks._
 - [Microservice](https://github.com/claygod/microservice) - The framework for the creation of microservices, written in Golang.
 - [neo](https://github.com/ivpusic/neo) - Neo is minimal and fast Go Web Framework with extremely simple API.
 - [patron](https://github.com/beatlabs/patron) - Patron is a microservice framework following best cloud practices with a focus on productivity.
+- [Pnutmux](https://gitlab.com/fruitygo/pnutmux) - Pnutmux is a powerful Go web framework that uses regex for matching and handling HTTP requests. It offers features such as CORS handling, structured logging, URL parameters extraction, middlewares, and concurrency limiting.
 - [Pulse](https://github.com/gopulse/pulse) - Pulse is an HTTP web framework written in Go (Golang)
 - [Resoursea](https://github.com/resoursea/api) - REST framework for quickly writing resource based services.
 - [REST Layer](https://github.com/rs/rest-layer) - Framework to build REST/GraphQL API on top of databases with mostly configuration over code.
